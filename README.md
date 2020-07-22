@@ -1,4 +1,4 @@
-![NYC_ABnB_DMi-01](https://user-images.githubusercontent.com/27675499/88067933-dd21a700-cb6f-11ea-98da-9c70753f01a4.png)
+![NYC_ABnB_DMi-01](https://user-images.githubusercontent.com/27675499/88182216-38b36980-cc30-11ea-8785-29ff26330b0e.png)
 ![NYC_ABnB_DMi-02](https://user-images.githubusercontent.com/27675499/88067936-ddba3d80-cb6f-11ea-8d2f-887975117b45.png)
 ![NYC_ABnB_DMi-03](https://user-images.githubusercontent.com/27675499/88067940-de52d400-cb6f-11ea-8931-d3f1c864342f.png)
 ![NYC_ABnB_DMi-04](https://user-images.githubusercontent.com/27675499/88067943-deeb6a80-cb6f-11ea-9aa1-be7bbe42fa86.png)
